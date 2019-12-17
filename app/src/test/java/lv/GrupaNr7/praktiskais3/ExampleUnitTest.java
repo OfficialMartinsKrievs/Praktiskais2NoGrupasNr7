@@ -1,4 +1,4 @@
-package lv.GrupaNr7.praktiskais2;
+package lv.GrupaNr7.praktiskais3;
 
 import org.junit.Test;
 

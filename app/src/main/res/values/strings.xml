@@ -1,18 +1,12 @@
 <resources>
-    <string name="app_name">Dialogs</string>
-    <string name="app_name1">Labi</string>
-    <string name="app_name2">Atcelt</string>
-    <string name="btn_dialog">Dialogs</string>
+    <string name="btn_saglabat">Saglabat</string>
     <string name="btn_activity2">Aktivitate2</string>
     <string name="txt_a1_name">Aktivitate1</string>
+    <string name="btn_nolasit">Nolasit</string>
     <string name="btn_activity1">Aktivitate1</string>
     <string name="txt_a2_name">Aktivitate2</string>
+    <string name="txt_a2_ievadlauks">Aktivitate2IevadLauks</string>
+    <string name="txt_a1_ievadlauks">Aktivitate1IevadLauks</string>
 
 
-
-    <string-array name="team_member_names">
-        <item>Mārtiņs</item>
-        <item>Kārlis</item>
-        <item>Edvuards</item>
-    </string-array>
 </resources>
